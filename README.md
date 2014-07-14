@@ -17,3 +17,11 @@ Credits:
 
 This extension is based on the "Creating a Chrome Extension" skeleton from
 http://carl-topham.com/theblog/post/creating-chrome-extension-update/.
+
+FAQ:
+
+Q: Will this be available as a true Chrome extension?
+A: Eventually. More tested is required now though.
+
+Q: Why is it called dot bomb? 
+A: http://upgrd.com/matthew/why-unitedcom-is-called-bomb.html
