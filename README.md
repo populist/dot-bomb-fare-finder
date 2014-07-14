@@ -5,7 +5,7 @@ A simple extension that will highlight any United search result that has
 available R or RN inventory. This is helpful to find flights for which SWUs
 or GPUs can be used like so:
 
-![United R Inventory Screenshot](/screenshot/?raw=true "United R Inventory Screenshot")
+![United R Inventory Screenshot](https://raw.githubusercontent.com/populist/dot-bomb-fare-finder/master/screenshot.png "United R Inventory Screenshot")
 
 * Installation instructions (Google Chrome Only)
 
