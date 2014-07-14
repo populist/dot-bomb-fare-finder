@@ -7,13 +7,13 @@ or GPUs can be used like so:
 
 ![United R Inventory Screenshot](https://raw.githubusercontent.com/populist/dot-bomb-fare-finder/master/screenshot.png "United R Inventory Screenshot")
 
-* Installation instructions (Google Chrome Only)
+Installation instructions (Google Chrome Only):
 
 1.) Download the code for the extension
 
 2.) Enable the extension using developer mode (https://developer.chrome.com/extensions/getstarted#unpacked)
 
-* Credits
+Credits:
 
 This extension is based on the "Creating a Chrome Extension" skeleton from
 http://carl-topham.com/theblog/post/creating-chrome-extension-update/.
