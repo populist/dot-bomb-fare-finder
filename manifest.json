@@ -1,0 +1,12 @@
+{
+  "name": "United R Inventory Finder",
+  "version": "0.1",
+  "description": "Easily identifies United R inventory in .BOMB search results",
+  "manifest_version": 2,
+  "web_accessible_resources": [ "jquery-2.0.2.min.js" ],
+  "content_scripts": [ {
+    "js": [ "jquery-2.0.2.min.js", "united-r-finder.js" ],
+    "css": ["united-r-finder.css"],
+    "matches": [ "http://www.united.com/web/*/apps/booking/flight/*", "https://www.united.com/web/*/apps/booking/flight/*"]
+  }]
+}
